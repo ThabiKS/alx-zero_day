@@ -1,1 +1,3 @@
-diectory read me
+directory read me
+
+read me update
